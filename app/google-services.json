@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902903602348",
+    "project_id": "gym-s-bond-login-and-signup",
+    "storage_bucket": "gym-s-bond-login-and-signup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902903602348:android:7a7127f95bc00ce75d1309",
+        "android_client_info": {
+          "package_name": "com.example.gymsbond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902903602348-82s1l1ihclofkqh4thb35jp6i4114v7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gymsbond",
+            "certificate_hash": "60faad3b6d211db37f4408dead764cc7da37eeb0"
+          }
+        },
+        {
+          "client_id": "902903602348-s5j7qmq8nhf5j8tp2rd7tgg4th8sekh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAircgXHki-iZhUskU3Sfdlbz6ZsEO0xfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902903602348-s5j7qmq8nhf5j8tp2rd7tgg4th8sekh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
